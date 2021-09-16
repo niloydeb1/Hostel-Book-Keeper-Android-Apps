@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "777541710564",
+    "firebase_url": "https://hooper-v10.firebaseio.com",
+    "project_id": "hooper-v10",
+    "storage_bucket": "hooper-v10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777541710564:android:ac1f857591df1f23a7b2f1",
+        "android_client_info": {
+          "package_name": "com.example.hooperv10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777541710564-bqj3fjnf721q3mq5gfs6dk7aq52vpmem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hooperv10",
+            "certificate_hash": "c246ea6c8d1c390b5aba23efdc05b03a9100086e"
+          }
+        },
+        {
+          "client_id": "777541710564-h5c8ml95qm2l5k5nu8l9ecr0p1i7sa0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC6IXevKIqhcP_4tiDkF0P0ImfEz0GP7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777541710564-h5c8ml95qm2l5k5nu8l9ecr0p1i7sa0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
